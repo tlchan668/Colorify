@@ -12,3 +12,7 @@ function randomColor(){
     const circle = document.getElementById('circleID').style.backgroundColor = randomColor;
     
 }
+
+function clearCircle(color){
+    console.log(color);
+}
