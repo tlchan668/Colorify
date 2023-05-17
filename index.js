@@ -15,4 +15,5 @@ function randomColor(){
 
 function clearCircle(color){
     console.log(color);
+    const circle = document.getElementById('circleID').style.backgroundColor = '';
 }
