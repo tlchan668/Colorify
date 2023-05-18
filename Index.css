@@ -18,4 +18,10 @@
 
 button{
     cursor: pointer;
+    background-color: blue;
+    
+}
+
+button-style:hover{
+    transform: scale(120%);
 }
